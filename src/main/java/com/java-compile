@@ -1,0 +1,1 @@
+java -cp classes:jetty-all-uber.jar:javax.json-1.0.4.jar:jjwt-0.6.0.jar:jackson-core-2.8.8.jar:jackson-annotations-2.8.8.jar:jackson-databind-2.8.8.jar org.eclipse.jetty.embedded.TestingServlet

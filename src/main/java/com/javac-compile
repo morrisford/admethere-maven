@@ -1,0 +1,1 @@
+javac -d classes -cp jetty-all-uber.jar:javax.json-api-1.0.jar:jjwt-0.6.0.jar:jackson-core-2.8.8.jar:jackson-annotations-2.8.8.jar:jackson-databind-2.8.8.jar TestingServlet.java XMLTransaction.java UserTransaction.java CompanyTransaction.java switcher.java
